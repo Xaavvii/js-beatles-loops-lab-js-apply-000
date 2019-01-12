@@ -47,7 +47,7 @@ function iLoveTheBeatles(n)
 
   do
   {
-    emptyArray = emptyArray.concat(["I Love the Beatles!"]);
+    emptyArray = emptyArray.concat(["I love the Beatles!"]);
     n++;
   }
   while(n<15);
